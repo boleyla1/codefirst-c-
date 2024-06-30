@@ -1,0 +1,15 @@
+C:\Users\Mehrshad\source\repos\code-first\code-first\bin\Debug\code-first.exe.config
+C:\Users\Mehrshad\source\repos\code-first\code-first\bin\Debug\code-first.exe
+C:\Users\Mehrshad\source\repos\code-first\code-first\bin\Debug\code-first.pdb
+C:\Users\Mehrshad\source\repos\code-first\code-first\bin\Debug\EntityFramework.dll
+C:\Users\Mehrshad\source\repos\code-first\code-first\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehrshad\source\repos\code-first\code-first\bin\Debug\EntityFramework.xml
+C:\Users\Mehrshad\source\repos\code-first\code-first\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code-first.csproj.AssemblyReference.cache
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code_first.Form1.resources
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code_first.Properties.Resources.resources
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code-first.csproj.GenerateResource.cache
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code-first.csproj.CoreCompileInputs.cache
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code-first.csproj.Up2Date
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code-first.exe
+C:\Users\Mehrshad\source\repos\code-first\code-first\obj\Debug\code-first.pdb
